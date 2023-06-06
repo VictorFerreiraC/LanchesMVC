@@ -1,0 +1,95 @@
+# Arquivos e diretórios específicos do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Diretório de saída padrão
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Arquivos de compilação
+*.apk
+*.ap_
+*.ipa
+*.msi
+*.nupkg
+*.pfx
+*.vsix
+*.xap
+*.xip
+*.rar
+*.zip
+
+# Outros arquivos e diretórios de compilação
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+[Aa]rtifacts/
+_PublishedWebsites/
+pubxml/
+
+# Ferramentas
+_ReSharper.*
+*.resharper
+*.DotSettings.user
+
+# Arquivos SQL Server
+*.mdf
+*.ldf
+*.sdf
+
+# Dependências gerenciadas pelo NuGet
+packages/
+
+# Arquivos de registro do Entity Framework
+*.edmx.*
+*.csdl
+*.ssdl
+*.msl
+
+# Arquivos de publicação
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+# Outros arquivos e diretórios
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+node_modules/
