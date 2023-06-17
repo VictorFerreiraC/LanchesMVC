@@ -12,6 +12,5 @@ namespace lanchesMVC.Context
         // Nome das tabelas
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Lanche> Lanches { get; set; }
-
     }
 }
